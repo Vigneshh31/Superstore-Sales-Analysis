@@ -87,11 +87,10 @@ The Power BI dashboard includes:
 ---
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here)*
+![Uploading dashboard_screenshot.png…]()
 
-```
-![Dashboard Screenshot](dashboard_screenshot.png)
-```
+
+The dashboard includes KPI cards (Total Sales: 2.26M, Total Orders: 9,800, Avg Delivery Days: 3.96, Total Customers: 793), category/region/segment breakdowns, a monthly sales trend by year, top sub-categories, and an interactive slicer panel to filter by Year, Category, Segment, and Region.
 
 ---
 
@@ -99,14 +98,3 @@ The Power BI dashboard includes:
 1. Clone this repository
 2. Open `Superstore_Dashboard.pbix` in Power BI Desktop
 3. Explore the dashboard using the slicers to filter by Year, Region, Category, or Segment
-
----
-
-## 👤 Author
-**[Your Name]**
-Data Analytics Enthusiast | [LinkedIn] | [GitHub] | [Email]
-
----
-
-## 📜 License
-This project is for educational purposes as part of a data analytics portfolio.
