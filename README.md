@@ -87,7 +87,8 @@ The Power BI dashboard includes:
 ---
 
 ## 📸 Dashboard Preview
-![Uploading dashboard_screenshot.png…]()
+<img width="1112" height="597" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/ad37761d-823a-4321-849b-61191a23dbce" />
+
 
 
 The dashboard includes KPI cards (Total Sales: 2.26M, Total Orders: 9,800, Avg Delivery Days: 3.96, Total Customers: 793), category/region/segment breakdowns, a monthly sales trend by year, top sub-categories, and an interactive slicer panel to filter by Year, Category, Segment, and Region.
